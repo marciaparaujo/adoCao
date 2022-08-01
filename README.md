@@ -32,7 +32,7 @@
 
 Somos um grupo de desenvolvedores que fazem parte do curso de programação em Swift pela digital House Brasil e este será nosso Projeto Integrador
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br>
+[<img src="https://avatars.githubusercontent.com/
 
 
 ## Descrição do Projeto
